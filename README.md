@@ -1,6 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Moxie Take Home Exercice
 
-https://moxie-take-home.vercel.app/
+The following instruction show how to run this project
+
+The production version can acessed here https://moxie-take-home.vercel.app/
+
+### Getting Started
+
+clone the repo
+
+```bash
+git clone https://github.com/luiscarlin/moxie-take-home.git
+
+cd moxie-take-home
+```
+
+##
 
 ## Getting Started
 
