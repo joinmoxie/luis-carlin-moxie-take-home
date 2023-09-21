@@ -1,4 +1,4 @@
-## Moxie Take Home Exercice
+# Moxie Take Home Exercice
 
 The following instruction show how to run this project
 
