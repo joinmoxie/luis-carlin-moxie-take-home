@@ -1,0 +1,9 @@
+body {
+  background: var(--grey-grey-20, #f4f4f6);
+  min-height: 100vh;
+}
+
+* {
+  font-family: inherit;
+  box-sizing: border-box;
+}

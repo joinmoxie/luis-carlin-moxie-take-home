@@ -1,0 +1,20 @@
+.card {
+  border-radius: 12px;
+  border: 1px solid var(--grey-grey-30, #e3e3e8);
+  background: var(--grey-white, #fff);
+
+  padding: 48px 60px;
+
+  @media (max-width: 900px) {
+    padding: 24px 16px;
+  }
+
+  .cardTop {
+    margin-bottom: 24px;
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+}

@@ -1,0 +1,17 @@
+h4 {
+  color: var(--text-dark, #131316);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0.18px;
+}
+
+p {
+  color: var(--text-dark, #131316);
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}

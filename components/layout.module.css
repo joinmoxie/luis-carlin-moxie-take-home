@@ -1,0 +1,39 @@
+.twoColumnLayoutWithFooter {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  height: 100vh;
+
+  .mainContent {
+    padding: 60px 120px;
+    overflow: scroll;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 32px;
+    width: 100%;
+
+    @media (max-width: 900px) {
+      display: block;
+      padding: 16px;
+    }
+
+    .leftCol {
+      max-width: 450px;
+      flex-basis: 33%;
+
+      @media (max-width: 900px) {
+        max-width: 100%;
+        flex-basis: 100%;
+      }
+    }
+    .rightCol {
+      max-width: 720px;
+      flex-basis: 66%;
+
+      @media (max-width: 900px) {
+        max-width: 100%;
+        flex-basis: 100%;
+      }
+    }
+  }
+}

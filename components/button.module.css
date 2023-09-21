@@ -1,0 +1,23 @@
+.button {
+  border-radius: 16px;
+  background: var(--violet-90, #8a1d96);
+  display: flex;
+  height: 56px;
+  padding: 0 36px;
+  justify-content: center;
+  align-items: center;
+  color: var(--grey-white, #fff);
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+
+  @media (max-width: 900px) {
+    width: 100%;
+  }
+}
