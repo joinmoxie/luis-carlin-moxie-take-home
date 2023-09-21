@@ -1,5 +1,3 @@
-import styles from "./ConfirmationView.module.css";
-
 function ConfirmationView() {
   return (
     <div>
