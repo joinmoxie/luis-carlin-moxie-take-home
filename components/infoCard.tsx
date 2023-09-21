@@ -1,8 +1,9 @@
+import Card from "./card";
 import styles from "./infoCard.module.css";
 
 function InfoCard() {
   return (
-    <div className={styles.infoCard}>
+    <Card>
       <div className={styles.infoCardTop}>
         <h4>Gold Spa</h4>
       </div>
@@ -28,7 +29,7 @@ function InfoCard() {
           </div>
         </div>
       </div>
-    </div>
+    </Card>
   );
 }
 
