@@ -1,7 +1,7 @@
 .twoColumnLayoutWithFooter {
   display: grid;
   grid-template-rows: 1fr auto;
-  height: 100vh;
+  min-height: 100vh;
 
   .mainContent {
     padding: 60px 120px;
