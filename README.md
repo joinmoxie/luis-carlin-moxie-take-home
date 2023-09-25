@@ -1,6 +1,6 @@
-## Moxie Take Home Exercice
+# Moxie Take Home Exercice
 
-The following instruction show how to run this project
+The following instructions show how to run this project
 
 The production version can acessed here https://moxie-take-home.vercel.app/
 
@@ -41,4 +41,4 @@ access the site in http://localhost:3000
 
 ### Adittional Notes
 
-Due to lack of time, you may see some small inconsistencies with the provided Figma designs. I tried to complete this take-home as fast as I could.
+Due to lack of time, you may notice some small UI inconsistencies with the provided Figma designs.
